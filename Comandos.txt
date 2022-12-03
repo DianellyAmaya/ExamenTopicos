@@ -1,0 +1,35 @@
+COMANDOS:
+cd C:\Users\WALMART\Desktop\ITCHII\5. Quinto Semestre\Tópicos Avanzados de Programación\Examen Git\examen\examen
+git init
+git status
+git add Readme.MD
+git commit -m "Primer commit"
+md BD_Python
+git add BD_Python/
+git commit -m "segundo commit"
+md Unidad5
+git add Unidad5/
+git commit -m "tercer commit"
+git commit -m "cuarto commit"
+git add aprobados.py
+git commit -m "quinto commit"
+git branch reprobados_rama
+git log
+git branch
+git checkout reprobados_rama
+md MUNDIAL
+git add MUNDIAL/
+git commit -m "CR7"
+git reset --soft tercer commit
+git commit -m "NUEVOS CAMBIOS"
+git checkout master
+git add Falsa Posicion y Secante.pptx
+git commit -m "sexto commit"
+git reset --soft
+git commit -m "septimo commit"
+git checkout master
+git merge reprobados_rama
+git add archivo1.txt
+git commit -m "octavo commit"
+git add archivo2.txt
+git commit -m "noveno commit"
